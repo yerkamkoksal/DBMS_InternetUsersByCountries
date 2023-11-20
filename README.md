@@ -19,20 +19,20 @@ The `internetusersbycountry.py` script is a Python-based data analysis project f
    pip install pandas numpy matplotlib seaborn
 
 
-##Usage
+## Usage
 
 The script processes and visualizes data related to internet usage by country, helping to uncover trends and insights. Run the script to generate visualizations and analysis.
 
-##Contributing
+## Contributing
 
 Suggestions and improvements are welcome. Feel free to fork the project, open issues, or send pull requests.
 
-##Contact
+## Contact
 
 Yusuf Erkam Köksal
 Email: yusuferkamkoksal@outlook.com
 GitHub: yerkamkoksal
 
-##License
+## License
 
 This project is open source and available under the MIT License.
